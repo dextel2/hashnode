@@ -5,6 +5,7 @@ seoDescription: "By 2030, AI may replace nearly every job. Dr. Roman Yampolskiy 
 datePublished: Thu Sep 11 2025 19:04:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmffs1kre000002jc076hbg2m
 slug: 5-jobs-left-2030-ai-safety-dr-roman-yampolskiy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757618263633/58365e15-7770-4d98-b103-8aee88f36384.png
 tags: ai, jobs, superintelligence, artificial-general-intelligence, ai-safety, future-jobs, dr-roman-yampolskiy, human-extinction, ai-and-society
 
 ---
