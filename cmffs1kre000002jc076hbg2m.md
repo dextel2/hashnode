@@ -1,11 +1,12 @@
 ---
 title: "The Only 5 Jobs Left in 2030? Dr. Roman Yampolskiy on AI, Safety, Extinction, and the Future of Work"
-seoTitle: "The Only 5 Jobs Left by 2030? Dr. Roman Yampolskiy on AI, Safety, a"
+seoTitle: "The Only 5 Jobs Left by 2030? Dr. Roman Yampolskiy on AI, Safety"
 seoDescription: "By 2030, AI may replace nearly every job. Dr. Roman Yampolskiy warns of AGI, safety risks, and the 5 roles humans might still hold onto."
 datePublished: Thu Sep 11 2025 19:04:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmffs1kre000002jc076hbg2m
 slug: 5-jobs-left-2030-ai-safety-dr-roman-yampolskiy
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757618263633/58365e15-7770-4d98-b103-8aee88f36384.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1757669213171/6871c822-3ad4-4dcb-b816-43c1d441df3e.png
 tags: ai, jobs, superintelligence, artificial-general-intelligence, ai-safety, future-jobs, dr-roman-yampolskiy, human-extinction, ai-and-society
 
 ---
