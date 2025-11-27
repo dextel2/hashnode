@@ -1,7 +1,7 @@
 ---
 title: "Banish Web Scraping Nightmares: llms.txt, the Dead-Simple Fix Every Coder Needs"
-seoTitle: "fix LLM scraping mess"
-seoDescription: "Banish Web Scraping Nightmares: llms.txt, the Dead-Simple Fix Every Coder Needs"—already pulses with urgency? How might you compress it under 60 characters "
+seoTitle: "Banish Web Scraping Nightmares: llms.txt"
+seoDescription: "Banish Web Scraping Nightmares: llms.txt, the Dead-Simple Fix Every Coder Needs"—already pulses with urgency? How might you compress it under 60 characters"
 datePublished: Thu Nov 27 2025 03:32:50 GMT+0000 (Coordinated Universal Time)
 cuid: cmigvooiw000102lb4bd045re
 slug: banish-web-scraping-nightmares-llmstxt-the-dead-simple-fix-every-coder-needs
